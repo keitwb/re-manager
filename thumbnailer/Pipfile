@@ -9,7 +9,7 @@ motor = "==2.0.0"
 python-bsonjs = "==0.2.0"
 sanic = "==18.12.0"
 pycommon = {editable = true,path = "./../pycommon"}
-pillow = "==5.4.1"
+pillow = "==8.2.0"
 
 [dev-packages]
 pycommon = {editable = true,extras = ["test"],path = "./../pycommon"}
